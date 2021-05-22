@@ -1,0 +1,36 @@
+{
+    "name": "c143_1cb8",
+    "numItems": 0,
+    "numOrders": 30,
+    "percDuplicates": 0,
+    "itemsPerBoxLow": 2,
+    "itemsPerBoxHigh": 8,
+    "numTimeSteps": 1,
+    "mapXyHighs": [
+        80,
+        80
+    ],
+    "depotSection": {
+        "0": [
+            70,
+            40
+        ],
+        "1": [
+            65,
+            60
+        ]
+    },
+    "numSlottingZones": 4,
+    "numVehicles": 8,
+    "numItemsToMove": 0,
+    "obstaclesType": "NR1",
+    "randomSeed": 7352,
+    "min_dist_to_slotting_zone": 25,
+    "mobileUnitCapacities": {
+        "numOrders": 4,
+        "weight": null,
+        "volume": null
+    },
+    "requestType": "SINGLEBATCH_OPTIMIZATION",
+    "folder_BDEV": "./benchmarking/BDEV_files/bench/NR1/"
+}

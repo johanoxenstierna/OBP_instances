@@ -1,0 +1,36 @@
+{
+    "name": "c124_2005",
+    "numItems": 0,
+    "numOrders": 30,
+    "percDuplicates": 0,
+    "itemsPerBoxLow": 2,
+    "itemsPerBoxHigh": 6,
+    "numTimeSteps": 1,
+    "mapXyHighs": [
+        80,
+        80
+    ],
+    "depotSection": {
+        "0": [
+            35,
+            70
+        ],
+        "1": [
+            50,
+            70
+        ]
+    },
+    "numSlottingZones": 4,
+    "numVehicles": 8,
+    "numItemsToMove": 0,
+    "obstaclesType": "TwelveRacks",
+    "randomSeed": 8197,
+    "min_dist_to_slotting_zone": 30,
+    "mobileUnitCapacities": {
+        "numOrders": 4,
+        "weight": null,
+        "volume": null
+    },
+    "requestType": "SINGLEBATCH_OPTIMIZATION",
+    "folder_BDEV": "./benchmarking/BDEV_files/bench/TwelveRacks/"
+}

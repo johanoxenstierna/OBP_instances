@@ -1,0 +1,36 @@
+{
+    "name": "c53_1972",
+    "numItems": 0,
+    "numOrders": 15,
+    "percDuplicates": 10,
+    "itemsPerBoxLow": 2,
+    "itemsPerBoxHigh": 5,
+    "numTimeSteps": 1,
+    "mapXyHighs": [
+        80,
+        80
+    ],
+    "depotSection": {
+        "0": [
+            32,
+            5
+        ],
+        "1": [
+            45,
+            5
+        ]
+    },
+    "numSlottingZones": 4,
+    "numVehicles": 4,
+    "numItemsToMove": 0,
+    "obstaclesType": "Conventional",
+    "randomSeed": 6514,
+    "min_dist_to_slotting_zone": 15,
+    "mobileUnitCapacities": {
+        "numOrders": 5,
+        "weight": null,
+        "volume": null
+    },
+    "requestType": "SINGLEBATCH_OPTIMIZATION",
+    "folder_BDEV": "./benchmarking/BDEV_files/bench/Conventional/"
+}
