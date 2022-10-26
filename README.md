@@ -1,4 +1,5 @@
 # OBP_instances
+There are a total of 
 Order Batching Problem instances on a modified TSPLIB format and proposed solutions and visualizations using the SBI optimizer. 
 
 ##Pictures
@@ -11,4 +12,3 @@ The solution folders include pictures. The red and blue diamonds denote destinat
  shown in a single .png (to reduce memory usage). In the latter case it is usually very difficult to make out one
   batch from another. 
  
-  
