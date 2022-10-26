@@ -1,0 +1,34 @@
+VRPTEST 1.0
+COMMENT: descr: Modified tsplib for the OBP
+COMMENT: Best known objective: 223.08
+COMMENT: Computational time (s): 0.004616
+NAME: c6_544c
+NUM_CAPACITIES: 1
+NUM_VISITS: 6
+NUM_VEHICLES: 1
+CAPACITIES: 8
+DATA_SECTION
+DEPOTS
+  0
+  1
+VISIT_LOCATION_SECTION
+  2 77
+  3 196
+  4 110
+  5 44
+  6 9
+  7 261
+COMMENT: TIMESTEP: 1
+ORDERS_SECTION
+  1 2
+  2 3
+  3 4
+  4 5 6
+  5 7
+TIME_AVAIL_SECTION
+  1 1
+  2 1
+  3 1
+  4 1
+  5 1
+EOF

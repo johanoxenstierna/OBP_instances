@@ -1,0 +1,44 @@
+{
+    "CAPACITIES": 4,
+    "DATA_SECTION": "",
+    "HEADER": {
+        "COMMENTS": {
+            "Best known objective": "161.8",
+            "Computational time (s)": "0.004442",
+            "descr": "Modified tsplib for the OBP"
+        },
+        "VERSION": "VRPTEST 1.0"
+    },
+    "NAME": "c6_07c7",
+    "NUM_CAPACITIES": 1,
+    "NUM_VEHICLES": 1,
+    "NUM_VISITS": 6,
+    "ORDERS": {
+        "1": [
+            "2",
+            "3"
+        ],
+        "2": [
+            "4",
+            "5"
+        ],
+        "3": [
+            "6",
+            "7"
+        ]
+    },
+    "TIMESTEP": "1",
+    "TIME_AVAIL_SECTION": {
+        "1": "1",
+        "2": "1",
+        "3": "1"
+    },
+    "VISIT_LOCATION_SECTION": {
+        "2": "475",
+        "3": "332",
+        "4": "327",
+        "5": "76",
+        "6": "477",
+        "7": "181"
+    }
+}
